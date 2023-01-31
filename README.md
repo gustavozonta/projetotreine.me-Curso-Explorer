@@ -30,7 +30,7 @@ Projeto desenvolvido pelo professor e passado ao aluno com ensinamento de HTML e
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1&t=0gxL6C4w2m18NclE-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/hych6YxitD4qpOFz6Pi0Ks/Explorer---Projeto-02-(Copy)?node-id=0%3A1&t=PLNFOeZr9zIJs0Kf-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
