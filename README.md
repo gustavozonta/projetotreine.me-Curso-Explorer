@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Treine.me" src="./assets.READMEimg.png" width="100%">
+  <img alt="Projeto Treine.me" src="./assets/READMEimg.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
